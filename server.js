@@ -1,11 +1,11 @@
 import express from 'express';
-// import dotenv from 'dotenv';
+import dotenv from 'dotenv';
 import connectDB from './config/db.js';
 import index from './config/routes.js';
 import ejs from 'ejs';
 
 // loading config files
-// dotenv.config({ path: './config/.env' });
+dotenv.config({ path: './config/.env' });
 const app = express();
 connectDB();
 
