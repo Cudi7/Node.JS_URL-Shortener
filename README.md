@@ -15,10 +15,10 @@
 
 ## General info
 
-So... it was Friday when I stared coding this app, and what does that mean? It's Node Day!
+So... it was Friday when I started coding this app, and what does that mean? It's Node Day!
 
-Following some examples, I build all by myself, an URL-Shortener fake app.
-Why Fake? because the links only work if you click it from the actual app (whitout paste it anywhere), check the code.
+Following some examples. I build by myself, an URL-Shortener fake app.
+Why Fake? because the links only work if you click it from the actual app (whithout paste it anywhere), check the code.
 
 This is a very easy and basic app that I build to refresh some Node, Express, EJS, and MongoDB basics that I think are important to keep a strong base to adventure to some more advanced topics.
 
