@@ -1,7 +1,7 @@
 import express from 'express';
-import indexPostController from '../Controllers/indexPostController.js';
-import indexGetController from '../Controllers/indexGetController.js';
-import idGetController from '../Controllers/idGetController.js';
+import indexPostController from '../controllers/indexPostController.js';
+import indexGetController from '../controllers/indexGetController.js';
+import idGetController from '../controllers/idGetController.js';
 
 const router = express.Router();
 

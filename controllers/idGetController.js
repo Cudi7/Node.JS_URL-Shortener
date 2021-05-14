@@ -1,4 +1,4 @@
-import urlModel from '../Models/urlModel.js';
+import urlModel from '../models/urlModel.js';
 
 async function idGetController(req, res, next) {
   const shortUrlLink = req.params.shortUrl;

@@ -1,5 +1,5 @@
 import { domainConfig } from '../helpers/utils.js';
-import urlModel from '../Models/urlModel.js';
+import urlModel from '../models/urlModel.js';
 
 const indexPostController = (req, res, next) => {
   const [url, shortUrl, id] = domainConfig(req.body.fullUrl);
